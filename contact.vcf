@@ -1,7 +1,10 @@
 BEGIN:VCARD
 VERSION:3.0
-N:Baba;Teodor;;;
-FN:Teodor Baba
-TEL;TYPE=CELL:+40XXXXXXXXX
-EMAIL:you@email.com
+N:Georgescu;Vlad;;;
+FN:Vlad Georgescu
+ORG:Metrici
+TEL;TYPE=CELL:+407999999999
+EMAIL:vlad@metrici.ro
+ADR:;;Vasile Lascar;Bucuresti;;Romania
+URL:https://metrici.ro
 END:VCARD
